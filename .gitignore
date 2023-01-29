@@ -1,1 +1,4 @@
 .venv
+dist
+build
+PPK-dji-images-with-reach.spec
